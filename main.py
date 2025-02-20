@@ -10,7 +10,7 @@ TOKEN = "7181562151:AAH6ayA93Q5o5KykOOEQja_aALavn8fWnCg"
 CHAT_ID = "5748009663"
 
 # GitHub repo info
-REPO_OWNER = "nesnes2v"
+REPO_OWNER = "Pvpv48"
 REPO_NAME = "Pvpv48"
 IMAGE_FOLDER = "images"  # Zorg dat dit de juiste map is in je repo
 TEXT_FILE = "messages.txt"
