@@ -1,0 +1,20 @@
+[
+    {
+      "id": "brooke",
+      "name": "Brooke Monk",
+      "description": "",
+      "photoFolder": ["Brooke"]
+    },
+    {
+      "id": "millie",
+      "name": "Millie",
+      "description": "Ben loopt het liefst ’s avonds en verkent nieuwe routes.",
+      "photoFolder": ["Millie"]
+    },
+    {
+      "id": "billie",
+      "name": "Billie",
+      "description": "",
+      "photoFolder": ["Billie"]
+    }
+  ]
