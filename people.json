@@ -5,16 +5,41 @@
       "description": "",
       "photoFolder": ["Brooke"]
     },
-    {
-      "id": "millie",
-      "name": "Millie",
-      "description": "Ben loopt het liefst ’s avonds en verkent nieuwe routes.",
-      "photoFolder": ["Millie"]
+      {
+      "id": "charlie",
+      "name": "Charlie D'Amelio",
+      "description": "",
+      "photoFolder": ["Charli"]
     },
     {
-      "id": "billie",
-      "name": "Billie",
+      "id": "Dilara",
+      "name": "Dilara",
       "description": "",
-      "photoFolder": ["Billie"]
+      "photoFolder": ["Dilara"]
+    },
+  
+    {
+      "id": "Dionisia",
+      "name": "Dionisia",
+      "description": "",
+      "photoFolder": ["Dionisia"]
+    },
+    {
+      "id": "Emni",
+      "name": "Emni",
+      "description": "",
+      "photoFolder": ["Emni"]
+    },
+    {
+      "id": "Jade Anna",
+      "name": "Jade Anna",
+      "description": "",
+      "photoFolder": ["Jade Anna"]
+    },
+    {
+      "id": "Laura",
+      "name": "Queen Laura",
+      "description": "",
+      "photoFolder": ["Laura"]
     }
   ]
