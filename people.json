@@ -41,5 +41,71 @@
       "name": "Queen Laura",
       "description": "",
       "photoFolder": ["Laura"]
+    },
+    {
+      "id": "Lauren Alexis",
+      "name": "Lauren Alexis",
+      "description": "",
+      "photoFolder": ["Lauren Alexis"]
+    },
+    {
+      "id": "Lea Elui",
+      "name": "Lea Elui",
+      "description": "",
+      "photoFolder": ["Lea Elui"]
+    },
+    {
+      "id": "Melanie Latooy",
+      "name": "Melanie Latooy",
+      "description": "",
+      "photoFolder": ["Melanie Latooy"]
+    },
+    {
+      "id": "Piper",
+      "name": "Piper",
+      "description": "",
+      "photoFolder": ["Piper"]
+    },
+    {
+      "id": "Selma",
+      "name": "Selma",
+      "description": "",
+      "photoFolder": ["Selma"]
+    },
+    {
+      "id": "Sara",
+      "name": "Sara",
+      "description": "",
+      "photoFolder": ["Sara"]
+    },
+    {
+      "id": "Siham Sanad",
+      "name": "Siham Sanad",
+      "description": "",
+      "photoFolder": ["Siham Sanad"]
+    },
+    {
+      "id": "Taimaa",
+      "name": "Taimaa",
+      "description": "",
+      "photoFolder": ["Taimaa"]
+    },
+    {
+      "id": "Tata",
+      "name": "Tata",
+      "description": "",
+      "photoFolder": ["Tata"]
+    },
+    {
+      "id": "Thallina",
+      "name": "Thallina",
+      "description": "",
+      "photoFolder": ["Thallina"]
+    },
+    {
+      "id": "Zoutje",
+      "name": "Zoutje",
+      "description": "",
+      "photoFolder": ["Zoutje"]
     }
   ]
